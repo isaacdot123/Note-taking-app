@@ -1,4 +1,4 @@
-import NavBar from './components/navbar';
+import NavBar from './components/Navbar';
 import {useState, useEffect} from 'react'
 import RateLimit from './components/RateLimit';
 import toast from "react-hot-toast";
