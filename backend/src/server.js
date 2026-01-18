@@ -38,6 +38,3 @@ connectDB().then(()=> {
     console.log(`Server running on PORT ${PORT}`);
 });
 })
-
-
-//mongodb+srv://dumaplinisaac13_db_user:isaac@cluster0.pf5bzh1.mongodb.net/?appName=Cluster0
